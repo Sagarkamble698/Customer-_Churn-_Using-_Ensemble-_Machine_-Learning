@@ -189,7 +189,7 @@ Users can:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/customer-churn-voting-ensemble.git
+git clone https://github.com/Sagarkamble698/customer-churn-voting-ensemble.git
 ```
 
 ---
